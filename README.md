@@ -19,11 +19,6 @@ Seu objetivo é fazer o download de determinados dados geoespaciais, processá-l
 
 # Instruções de instalação/configuração
 
-Para começar, faça um repositório a partir da cópia do original acessando o link (lembre-se de logar com seu usuário GitHub)
-> https://github.com/terra-q/data-scientist-test-jan-2024/generate
-
-Após a cópia, clone o repositório localmente:
-
 ```
 git clone https://github.com/<SEU_USUARIO>/data-scientist-test-jan-2024.git
 ```
